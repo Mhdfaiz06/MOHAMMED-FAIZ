@@ -1,0 +1,135 @@
+ul {
+    display: block;
+    list-style-type: none;
+    border-radius: 0cqi;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  
+  
+  }
+  li{
+    float: right;
+  }
+  p{
+    font-size: 110%;
+    color: rgb(9, 4, 14);
+  }
+  li a{
+    display: block;
+    color: aliceblue;
+    padding: 14px 16px ;
+    text-align: center;
+    text-decoration: none;
+    
+    
+  }
+  li a:hover {
+    background-color: blueviolet;
+    color: black;
+
+  }
+  h1{
+    text-align: center;
+    font-size: 300%;
+    padding-top: 100px; 
+  
+  }
+  h3{
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 300px;
+  }
+  .new p {
+    text-align: left;
+    padding-left: 300px;
+    text-align: left;
+    padding-top: 10px;
+
+
+  }
+   .new img{
+    
+   
+   }
+   footer{
+    position: fixed;
+    bottom: 0%;
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    
+   }
+   .social-icon{
+    display: flex;
+    justify-content: center;
+
+   }
+   .social-icon img{
+    width: 20px;
+    height: 20px;
+
+   }
+   .social-icon a{
+    margin: 0 10px
+   }
+   .bar{
+    text-align: center;
+   }
+   .image{
+    text-align: center;
+   }
+    img{
+    border-radius:50% ;
+    padding-top: 1px;
+    
+    
+   }
+   .center {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+
+    float: left;
+  
+
+    top:40px;
+    ;
+  
+    
+  }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+  }
+  .box {
+    width: 32%;
+    padding-top: 10x;
+    
+    text-align: center;
+    border: 1px solid #610eb4;
+    border-color: blueviolet;
+    }
+
+  
+  .p1{
+    padding-left: 50px;
+  }
+.pic {
+  border-radius: 50%;
+  float:left;
+}
+body{
+  background-color: beige;
+}
+.container :hover {
+  background-color: bisque;
+  color: rgb(11, 5, 5);
+}
+
+
+
+    
+   
